@@ -22,6 +22,7 @@ THEN a Save icon appears in the navigation at the top of the page
 WHEN I click on the Save icon
 THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
 WHEN I click on 
+```
 
 ## Video Demo:
 
